@@ -1,0 +1,21 @@
+h1{
+    color:darkblue;
+    font-weight: 500;
+}
+
+body{
+    background-color: burlywood;
+    
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 100;
+}
+
+img{
+    padding: 20px 15px;
+    margin: 20px;
+    border: 2px dotted darkgreen;
+}
